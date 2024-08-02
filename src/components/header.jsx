@@ -1,14 +1,15 @@
-import React from "react";
-import { Link, Route, Routes, useLocation } from "react-router-dom";
+import  React from "react";
+import { Link, useLocation } from "react-router-dom";
 import Logo from "../../src/assets/images/javed-akhtar.jpg";
 import Effect from "../effects/effect";
 
 const Header = () => {
   const location = useLocation();
+ 
   return (
     <>
       <div className="sticky top-20 z-10">
-        <div className={`gap-4 w-full ${location.pathname == "/projects" ? "flex flex-col gap-0" : "flex flex-col gap-10"}`}>
+        <div className={`gap-4 w-full ${location.pathname === "/projects" ? "flex flex-col gap-0" : "flex flex-col gap-10"}`}>
         
           <div className="flex items-center flex-grow gap-5">
             <div className="flex items-center flex-grow gap-5">
@@ -20,7 +21,7 @@ const Header = () => {
                 </span>
               </div>
               <div className="flex flex-col flex-grow gap-0">
-              {location.pathname =="/projects" ? (<div className="relative z-10 mb-2"><Link className="flex gap-3" to="/"><span className="w-6"><BackArrow/></span>Back</Link></div>) : null}
+              {location.pathname === "/projects" ? (<div className="relative z-10 mb-2"><Link className="flex gap-3" to="/"><span className="w-6"><BackArrow/></span>Back</Link></div>) : null}
                 <h1 className="text-4xl font-extrabold text-slate-800 ">
                   Javed Akhtar
                 </h1>
@@ -35,6 +36,7 @@ const Header = () => {
               </div>
             </div>
           </div>
+         
           {location.pathname !== "/projects" && (
             <p className="text-slate-800 text-5xl font-extralight -tracking-wide leading-tight">
               I build the design{" "}
@@ -46,7 +48,7 @@ const Header = () => {
           <div></div>
         </div>
       </div>
-      {/* <div className="fixed -left-1/3 top-0 w-screen h-screen pointer-events-none z-0"><Effect/></div> */}
+      {location.pathname !== "/projects" && (<div className="fixed w-3/6 bottom-10 -left-0 h-3/6 z-0"><Effect/></div>)}
     </>
   );
 };
