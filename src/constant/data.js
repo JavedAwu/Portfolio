@@ -16,6 +16,9 @@ import oaks from '../assets/images/oaks.jpg'
 import parrot from '../assets/images/parrot.jpg'
 import propscience from '../assets/images/propscience.jpg'
 import propnews from '../assets/images/prop-news.jpg'
+import channel from '../assets/images/channel-sale.jpg'
+import bodyfirst from '../assets/images/bodyfirst.jpg'
+
 
 
 
@@ -30,39 +33,67 @@ export const ProjectList = [
     url:"https://uberbazaar.com/",
     category: "Shopify",
     description:
-      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-    technologies: ["Shopify", "jQuery", "Bootstrap", "HTML 5", "CSS"],
-    startdate: "10 June, 2023",
+      "I have a project that includes implementing a theme, customizing sections, creating banners, and adding new sections.",
+    technologies: ["Shopify", "jQuery", "HTML 5", "CSS",],
+    startdate: "2018",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "1",
+    id: "2",
+    image:bodyfirst,
+    title: "Bodyfirst",
+    madeAt:"e.Soft Technologies Ltd.",
+    url:"https://bodyfirst.in/",
+    category: "Angular",
+    description:"My responsibilities in this project include theme implementation, improving design, ensuring responsiveness, and updating A+ content on the product page.",
+    technologies: ["Shopify", "jQuery", "CSS", "HTML 5"],
+    startdate: "2021",
+    enddate: "10 Jan, 2024",
+  },
+  {
+    id: "3",
     image: skinstory,
     title: "The Skinstory",
     madeAt:"e.Soft Technologies Ltd.",
     url:"https://theskinstory.in/",
     category: "Shopify",
     description:
-      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-    technologies: ["Shopify", "jQuery", "Bootstrap", "HTML 5", "CSS"],
-    startdate: "10 June, 2023",
+      "I have a project that includes implementing a theme, customizing sections, creating banners, and adding new sections.",
+    technologies: ["Shopify", "jQuery", "CSS", "HTML 5"],
+    startdate: "2019",
+    enddate: "10 Jan, 2024",
+  },
+  
+  {
+    id: "12",
+    image: crypto,
+    title: "Cryptorolls",
+    madeAt:"What's New Technologies",
+    url:"https://www.cryptorolls.com/",
+    category: "Shopify",
+    description:
+      "I created this project using MUI with React and designed it using Figma. My responsibilities included ensuring a cohesive and visually appealing design, translating it into functional components, and maintaining responsiveness across all devices.",
+    technologies: ["React", "MUI", "Figma", "HTML 5"],
+    startdate: "2023",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "7",
-    image:amouge,
-    title: "Amouage",
-    madeAt:"e.Soft Technologies Ltd.",
-    url:"https://amouage.com/",
+    id: "13",
+    image: versuz,
+    title: "Versuz",
+    madeAt:"What's New Technologies",
+    url:"https://versuz.gg/",
     category: "Angular",
     description:
-      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-    technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+      "I designed this project in Figma. After receiving approval, I implemented it in React and used Tailwind CSS to enhance its attractiveness. This design is fully adaptive, and I incorporated a roulette slider created with the help of JavaScript, making it quite visually appealing.",
+    technologies: ["React", "Tailwind CSS","Javascript", "Figma"],
+    startdate: "2024",
     enddate: "10 Jan, 2024",
   },
+  
+  
   {
-    id: "7",
+    id: "4",
     image:lifehome,
     title: "Life and Home",
     madeAt:"e.Soft Technologies Ltd.",
@@ -71,12 +102,25 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2016",
+    enddate: "10 Jan, 2024",
+  },
+  {
+    id: "5",
+    image:amouge,
+    title: "Amouage",
+    madeAt:"e.Soft Technologies Ltd.",
+    url:"https://amouage.com/",
+    category: "Angular",
+    description:
+      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
+    technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
+    startdate: "2023",
     enddate: "10 Jan, 2024",
   },
   
   {
-    id: "6",
+    id: "5",
     image:ontario,
     title: "Ontarioknife",
     madeAt:"e.Soft Technologies Ltd.",
@@ -85,11 +129,11 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2016",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "5",
+    id: "6",
     image:sarojfabrics,
     title: "Saroj Fabrics",
     madeAt:"e.Soft Technologies Ltd.",
@@ -98,11 +142,11 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2019",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "1",
+    id: "7",
     image: foodie,
     title: "Foodie-Trail",
     madeAt:"e.Soft Technologies Ltd.",
@@ -111,12 +155,12 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["Shopify", "jQuery", "Bootstrap", "HTML 5", "CSS"],
-    startdate: "10 June, 2023",
+    startdate: "2022",
     enddate: "10 Jan, 2024",
   },
   
   {
-    id: "2",
+    id: "8",
     image: gigflex,
     title: "GigFlex LLC",
     madeAt:"e.Soft Technologies Ltd.",
@@ -125,12 +169,12 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "Bootstrap", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2021",
     enddate: "10 Jan, 2024",
   },
   
   {
-    id: "2",
+    id: "9",
     image: resetlife,
     title: "Reset Life",
     madeAt:"e.Soft Technologies Ltd.",
@@ -139,11 +183,11 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "Bootstrap", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2017",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "2",
+    id: "10",
     image: empire,
     title: "Empire Mumbai",
     madeAt:"e.Soft Technologies Ltd.",
@@ -152,12 +196,12 @@ export const ProjectList = [
     description:
       "We are a multi - divisional public limited company engaged in diverse businesses, headquartered in Mumbai.",
     technologies: ["WordPress", "jQuery", "Bootstrap", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2017-18",
     enddate: "10 Jan, 2024",
   },
   
   {
-    id: "2",
+    id: "11",
     image: udaan,
     title: "IAS / IPS Preparations",
     madeAt:"What's New Technologies",
@@ -166,37 +210,12 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "Bootstrap", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2024",
     enddate: "10 Jan, 2024",
   },
+  
   {
-    id: "3",
-    image: crypto,
-    title: "Cryptorolls",
-    madeAt:"What's New Technologies",
-    url:"https://www.cryptorolls.com/",
-    category: "Shopify",
-    description:
-      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-    technologies: ["React", "MUI", "Figma", "HTML 5"],
-    startdate: "10 June, 2023",
-    enddate: "10 Jan, 2024",
-  },
-  {
-    id: "4",
-    image: versuz,
-    title: "Versuz",
-    madeAt:"What's New Technologies",
-    url:"https://versuz.gg/",
-    category: "Angular",
-    description:
-      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-    technologies: ["React", "Tailwind CSS", "Figma"],
-    startdate: "10 June, 2023",
-    enddate: "10 Jan, 2024",
-  },
-  {
-    id: "5",
+    id: "14",
     image:propnews,
     title: "Prop Newstime",
     madeAt:"e.Soft Technologies Ltd.",
@@ -205,13 +224,13 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["React", "MUI", "Figma", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2022",
     enddate: "10 Jan, 2024",
   },
  
  
   {
-    id: "8",
+    id: "15",
     image:cloudraxak,
     title: "Cloud Raxak",
     madeAt:"e.Soft Technologies Ltd.",
@@ -220,11 +239,11 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2016",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "8",
+    id: "16",
     image:parrot,
     title: "Parrotphone App",
     madeAt:"e.Soft Technologies Ltd.",
@@ -233,11 +252,24 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2024",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "8",
+    id: "17",
+    image:channel,
+    title: "Channel Sale",
+    madeAt:"e.Soft Technologies Ltd.",
+    url:"https://www.channelsale.com/",
+    category: "Angular",
+    description:
+      "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
+    technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
+    startdate: "2015-16",
+    enddate: "10 Jan, 2024",
+  },
+  {
+    id: "18",
     image:propscience,
     title: "Propscience",
     madeAt:"e.Soft Technologies Ltd.",
@@ -246,61 +278,59 @@ export const ProjectList = [
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2021-22",
     enddate: "10 Jan, 2024",
   },
   {
-    id: "8",
+    id: "19",
     image:oaks,
     title: "Oaks",
     madeAt:"Singsys Software Services Pvt Ltd.",
-    url:"https://www.oaks.com.sg/",
+    url:"https://www.oaks.com.sg",
     category: "Angular",
     description:
       "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
     technologies: ["WordPress", "jQuery", "CSS", "HTML 5"],
-    startdate: "10 June, 2023",
+    startdate: "2013-14",
     enddate: "10 Jan, 2024",
   },
+  
   
 ];
 
 
-export const Companies = [
+export const ExperienceData = [
     {
       id: "1",
-      image: "/uber.png",
-      title: "e.Soft Technologies Ltd.",
-      url:"https://uberbazaar.com/",
-      position: "Sr. Frontend Developer",
+      position:"Senior Frontend Developer",
+      organization: "e.Soft Technologies",
+      url:"https://www.esoftech.com/",
       description:
-        "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-      technologies: ["HTML 5", "CSS 3", "Bootstrap", "Tailwind", "WordPress", "jQuery", "Angular", "Shopify", "Magento" ],
-      startdate: "15 June, 2015",
+        "I worked as a UI Designer and Frontend Developer at e.Soft Technologies. My responsibilities included designing web pages using tools such as Figma, Adobe Photoshop, and Adobe XD. After obtaining design approval from the project manager, I converted these designs into HTML and implemented them on various platforms, including Angular, WordPress, React, Shopify, and Magento. Additionally, I utilized JavaScript and jQuery to enhance interactivity.",
+      technologies: ["HTML 5", "CSS", "Bootstrap", "Tailwind CSS", "WordPress", "jQuery", "Angular", "Shopify", "Figma" ],
+      startdate: "June, 2015",
       enddate: "Present",
     },
     {
         id: "2",
-        image: "/uber.png",
-        title: "Singsys Software Services",
-        url:"https://uberbazaar.com/",
-        position: "UI Developer",
+        position: "Frontentd Developer",
+        organization: "Singsys Software",
+        url:"https://www.singsys.com/",
         description:
-          "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-        technologies: ["HTML 5", "CSS 3", "Bootstrap", "Tailwind", "WordPress", "jQuery", "Angular", "Shopify", "Magento" ],
-        startdate: "10 June, 2023",
-        enddate: "10 Jan, 2024",
+          "I worked as a Frontend Developer at Singsys Software Services. My primary responsibility was to convert designs into pixel-perfect HTML and ensure compatibility across all devices. It was here that I created my first responsive and adaptive design using Bootstrap. This company had access to all types of devices, making responsive testing straightforward. During my time here, I honed my skills and became proficient in creating responsive and adaptive designs.",
+        technologies: ["HTML 5", "CSS", "Bootstrap", "WordPress", "jQuery", "Adoptive Design", "Responsiveness" ],
+        startdate: "Sep 2013",
+        enddate: "June 2015",
       },
       {
         id: "3",
-        image: "/uber.png",
-        title: "Wiztech Consultancy",
-        url:"https://uberbazaar.com/",
-        position: "UI/UX Developer",
+        position:"Web Designer/HTML Developer",
+        organization: "Witztech",
+        url:"https://www.esoftech.com/",
         description:
-          "I created the UI for our Shopify theme, ensuring seamless browsing and a visually engaging experience.",
-        technologies: ["HTML 5", "CSS 3", "Bootstrap", "Tailwind", "WordPress", "jQuery", "Angular", "Shopify", "Magento" ],
-        startdate: "10 June, 2023",
-        enddate: "10 Jan, 2024",
+          "I began my professional career at Wiztech Consultancy, where I worked as a Web Designer. My responsibilities included using Photoshop to create landing pages, design logos, and create banners. Additionally, I converted designs into HTML, CSS, and JavaScript, ensuring that the websites were both visually appealing and functional.",
+        technologies: ["HTML", "CSS", "WordPress", "jQuery", "Photoshop", "CoralDraw" ],
+        startdate: "Feb 2012",
+        enddate: "Sep 2013",
       },
 ]
