@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1ceb501c.css",
-    "main.js": "/Portfolio/static/js/main.29f4746a.js",
+    "main.js": "/Portfolio/static/js/main.2f936c1c.js",
     "static/js/208.b993c4e2.chunk.js": "/Portfolio/static/js/208.b993c4e2.chunk.js",
     "static/js/293.96b7f27e.chunk.js": "/Portfolio/static/js/293.96b7f27e.chunk.js",
     "static/js/917.ddb06682.chunk.js": "/Portfolio/static/js/917.ddb06682.chunk.js",
@@ -11,7 +11,6 @@
     "static/js/160.a3b8a3e6.chunk.js": "/Portfolio/static/js/160.a3b8a3e6.chunk.js",
     "static/js/23.984fcd00.chunk.js": "/Portfolio/static/js/23.984fcd00.chunk.js",
     "static/js/453.092731e4.chunk.js": "/Portfolio/static/js/453.092731e4.chunk.js",
-    "static/media/Javed-Frontend-Developre.pdf": "/Portfolio/static/media/Javed-Frontend-Developre.c67d3044e80b8bb8b824.pdf",
     "static/media/javed-akhtar.jpg": "/Portfolio/static/media/javed-akhtar.63d0eed0246bd4f72843.jpg",
     "static/media/propscience.jpg": "/Portfolio/static/media/propscience.ac85d86a1898e413a50b.jpg",
     "static/media/prop-news.jpg": "/Portfolio/static/media/prop-news.792db84aec443ba5c347.jpg",
@@ -35,7 +34,7 @@
     "static/media/udaan.jpg": "/Portfolio/static/media/udaan.81732f3abb07c42810c1.jpg",
     "index.html": "/Portfolio/index.html",
     "main.1ceb501c.css.map": "/Portfolio/static/css/main.1ceb501c.css.map",
-    "main.29f4746a.js.map": "/Portfolio/static/js/main.29f4746a.js.map",
+    "main.2f936c1c.js.map": "/Portfolio/static/js/main.2f936c1c.js.map",
     "208.b993c4e2.chunk.js.map": "/Portfolio/static/js/208.b993c4e2.chunk.js.map",
     "293.96b7f27e.chunk.js.map": "/Portfolio/static/js/293.96b7f27e.chunk.js.map",
     "917.ddb06682.chunk.js.map": "/Portfolio/static/js/917.ddb06682.chunk.js.map",
@@ -48,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.1ceb501c.css",
-    "static/js/main.29f4746a.js"
+    "static/js/main.2f936c1c.js"
   ]
 }
