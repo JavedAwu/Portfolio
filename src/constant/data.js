@@ -88,7 +88,7 @@ export const ProjectList = [
       "I designed this project in Figma. After receiving approval, I implemented it in React and used Tailwind CSS to enhance its attractiveness. This design is fully adaptive, and I incorporated a roulette slider created with the help of JavaScript, making it quite visually appealing.",
     technologies: ["React", "Tailwind CSS","Javascript", "Figma"],
     startdate: "2024",
-    enddate: "10 Jan, 2024",
+    enddate: "10 Jan, 2024", 
   },
   
   
