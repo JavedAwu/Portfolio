@@ -60,7 +60,7 @@ const Expcolumn = ({
       <p className="text-lg font-medium flex text-slate-700 mb-1 ">
         {position}, {organization}{" "}
         <span className="ms-2">
-          <Uparrow />
+          <Uparrow /> 
         </span>
       </p>
       <p className="text-slate-500 text-[14px] font-normal leading-normal">{description}</p>
