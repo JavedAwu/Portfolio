@@ -1,5 +1,4 @@
-// import { Link } from "react-router-dom"
-// import { Uparrow } from "../constant/svgIcons"
+import  React from "react";
 
 
 const AboutMe = () => {
