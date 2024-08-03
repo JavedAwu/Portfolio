@@ -34,11 +34,8 @@ const Projects = () => {
 
 const ProjectColumn = ({
     title,
-    category,
     madeAt,
     url,
-    image,
-    description,
     startdate,
     technologies,
   }) => {

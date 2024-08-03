@@ -19,7 +19,7 @@ function AllProjects() {
   return (
     <div className="">
         <div className=''>
-        <h2 className="mb-3 text-xl font-semibold sticky pt-10 top-0 z-10 bg-slate-50">All Projects</h2>
+        <h2 className="mb-3 text-xl font-semibold md:sticky pt-10 top-0 z-10 bg-slate-50">All Projects</h2>
         {ProjectList.slice(0,5).map((pritem, index) => {
           return (
             <ProjectColumn
@@ -55,15 +55,15 @@ const ProjectColumn = ({
     technologies,
   }) => {
     return (
-      <div className="relative">
+      <div className={`relative xl:mb-0 md:mb-0 mb-10`}>
         <Link
           to={url}
           target="_blank"
-          className="hover:bg-white transition-all border border-transparent hover:border-slate-100 block p-4 -ms-4 hover:rounded-xl"
+          className="hover:bg-white transition-all border border-transparent hover:border-slate-100 block xl:p-4 lg:p-4 md:p-4 xl:-ms-4 lg:-ms-4 md:-ms-4 hover:rounded-xl"
         >
-          <div className="flex gap-5">
+          <div className="flex xl:flex-row lg:flex-row md:flex-row  flex-col gap-5">
             <div className="flex">
-              <div className='w-52'>
+              <div className='xl:w-52 lg:w-52 md:w-52'>
               <Tilt options={defaultOptions}>
                 <img
                   src={image}

@@ -8,14 +8,14 @@ function Experience() {
   return (
     <div className="text-lg ">
       <div className="">
-        <h2 className="mb-5 text-xl font-semibold sticky pt-10 top-0 z-10 bg-slate-50">
+        <h2 className="mb-5 text-xl font-semibold md:sticky pt-10 top-0 z-10 bg-slate-50">
           Experience.
         </h2>
         <div className="border-s flex flex-col gap-10 ps-5 ms-3">
-          {ExperienceData.map((item)=>{
+          {ExperienceData.map((item, index)=>{
             return(
 <Expcolumn
-              key={item.index}
+              key={item.id}
               position={item.position}
               organization={item.organization}
               technologies={item.technologies}
@@ -64,11 +64,11 @@ const Expcolumn = ({
         </span>
       </p>
       <p className="text-slate-500 text-[14px] font-normal leading-normal">{description}</p>
-      <div class="flex gap-2 flex-wrap mt-3">
-        {technologies.map((link)=>{
+      <div className="flex gap-2 flex-wrap mt-3">
+        {technologies.map((link, index)=>{
           return(
             <span
-            key={link}
+            key={index}
             className={`${
               link === "WordPress" ? "bg-gray-300 text-slate-500"
                 : link === "Shopify"
