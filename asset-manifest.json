@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5761f74e.css",
-    "main.js": "/Portfolio/static/js/main.6081612b.js",
+    "main.css": "/Portfolio/static/css/main.b0613208.css",
+    "main.js": "/Portfolio/static/js/main.e06ed662.js",
     "static/js/208.b993c4e2.chunk.js": "/Portfolio/static/js/208.b993c4e2.chunk.js",
     "static/js/293.96b7f27e.chunk.js": "/Portfolio/static/js/293.96b7f27e.chunk.js",
     "static/js/917.ddb06682.chunk.js": "/Portfolio/static/js/917.ddb06682.chunk.js",
@@ -34,8 +34,8 @@
     "static/media/saroj-fabrics.jpg": "/Portfolio/static/media/saroj-fabrics.efedde8ce535edb238fd.jpg",
     "static/media/udaan.jpg": "/Portfolio/static/media/udaan.81732f3abb07c42810c1.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.5761f74e.css.map": "/Portfolio/static/css/main.5761f74e.css.map",
-    "main.6081612b.js.map": "/Portfolio/static/js/main.6081612b.js.map",
+    "main.b0613208.css.map": "/Portfolio/static/css/main.b0613208.css.map",
+    "main.e06ed662.js.map": "/Portfolio/static/js/main.e06ed662.js.map",
     "208.b993c4e2.chunk.js.map": "/Portfolio/static/js/208.b993c4e2.chunk.js.map",
     "293.96b7f27e.chunk.js.map": "/Portfolio/static/js/293.96b7f27e.chunk.js.map",
     "917.ddb06682.chunk.js.map": "/Portfolio/static/js/917.ddb06682.chunk.js.map",
@@ -47,7 +47,7 @@
     "453.092731e4.chunk.js.map": "/Portfolio/static/js/453.092731e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5761f74e.css",
-    "static/js/main.6081612b.js"
+    "static/css/main.b0613208.css",
+    "static/js/main.e06ed662.js"
   ]
 }
