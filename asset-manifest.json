@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1ceb501c.css",
-    "main.js": "/Portfolio/static/js/main.48e17570.js",
+    "main.js": "/Portfolio/static/js/main.0ff52a80.js",
     "static/js/208.b993c4e2.chunk.js": "/Portfolio/static/js/208.b993c4e2.chunk.js",
     "static/js/293.96b7f27e.chunk.js": "/Portfolio/static/js/293.96b7f27e.chunk.js",
     "static/js/917.ddb06682.chunk.js": "/Portfolio/static/js/917.ddb06682.chunk.js",
@@ -10,31 +10,11 @@
     "static/js/946.69e6cb5e.chunk.js": "/Portfolio/static/js/946.69e6cb5e.chunk.js",
     "static/js/160.a3b8a3e6.chunk.js": "/Portfolio/static/js/160.a3b8a3e6.chunk.js",
     "static/js/23.984fcd00.chunk.js": "/Portfolio/static/js/23.984fcd00.chunk.js",
-    "static/js/453.092731e4.chunk.js": "/Portfolio/static/js/453.092731e4.chunk.js",
+    "static/js/453.0e2f6e77.chunk.js": "/Portfolio/static/js/453.0e2f6e77.chunk.js",
     "static/media/javed-akhtar.jpg": "/Portfolio/static/media/javed-akhtar.63d0eed0246bd4f72843.jpg",
-    "static/media/propscience.jpg": "/Portfolio/static/media/propscience.ac85d86a1898e413a50b.jpg",
-    "static/media/prop-news.jpg": "/Portfolio/static/media/prop-news.792db84aec443ba5c347.jpg",
-    "static/media/ontario.jpg": "/Portfolio/static/media/ontario.942fbefc6d7732874e26.jpg",
-    "static/media/bodyfirst.jpg": "/Portfolio/static/media/bodyfirst.ce036d14075dc20b7c18.jpg",
-    "static/media/foodie-trail.jpg": "/Portfolio/static/media/foodie-trail.edc55192751b12822c1f.jpg",
-    "static/media/crypto.jpg": "/Portfolio/static/media/crypto.08ccf719737b62b804d6.jpg",
-    "static/media/versuz.jpg": "/Portfolio/static/media/versuz.7215f6cfbe30ddd72876.jpg",
-    "static/media/empire.jpg": "/Portfolio/static/media/empire.22ce2dc98ce2a6f9dff4.jpg",
-    "static/media/aumoge.jpg": "/Portfolio/static/media/aumoge.6219da53213268ed8d91.jpg",
-    "static/media/oaks.jpg": "/Portfolio/static/media/oaks.511f5859862852455ba4.jpg",
-    "static/media/channel-sale.jpg": "/Portfolio/static/media/channel-sale.b715d79108bcf6693ec4.jpg",
-    "static/media/uber-bazaar.jpg": "/Portfolio/static/media/uber-bazaar.aa4cc30e1b34ff1d6bee.jpg",
-    "static/media/reset-life.jpg": "/Portfolio/static/media/reset-life.ef9afb3d43fd7762cc14.jpg",
-    "static/media/life-and-home.jpg": "/Portfolio/static/media/life-and-home.88e0b25815be4deeefbc.jpg",
-    "static/media/cloudraxak.jpg": "/Portfolio/static/media/cloudraxak.8d51290811306d71a9b6.jpg",
-    "static/media/parrot.jpg": "/Portfolio/static/media/parrot.a56138546d86abfb3323.jpg",
-    "static/media/skin-story.jpg": "/Portfolio/static/media/skin-story.9987100785f18842543d.jpg",
-    "static/media/gigflex.jpg": "/Portfolio/static/media/gigflex.2af0fb92167080c99ac9.jpg",
-    "static/media/saroj-fabrics.jpg": "/Portfolio/static/media/saroj-fabrics.efedde8ce535edb238fd.jpg",
-    "static/media/udaan.jpg": "/Portfolio/static/media/udaan.81732f3abb07c42810c1.jpg",
     "index.html": "/Portfolio/index.html",
     "main.1ceb501c.css.map": "/Portfolio/static/css/main.1ceb501c.css.map",
-    "main.48e17570.js.map": "/Portfolio/static/js/main.48e17570.js.map",
+    "main.0ff52a80.js.map": "/Portfolio/static/js/main.0ff52a80.js.map",
     "208.b993c4e2.chunk.js.map": "/Portfolio/static/js/208.b993c4e2.chunk.js.map",
     "293.96b7f27e.chunk.js.map": "/Portfolio/static/js/293.96b7f27e.chunk.js.map",
     "917.ddb06682.chunk.js.map": "/Portfolio/static/js/917.ddb06682.chunk.js.map",
@@ -43,10 +23,10 @@
     "946.69e6cb5e.chunk.js.map": "/Portfolio/static/js/946.69e6cb5e.chunk.js.map",
     "160.a3b8a3e6.chunk.js.map": "/Portfolio/static/js/160.a3b8a3e6.chunk.js.map",
     "23.984fcd00.chunk.js.map": "/Portfolio/static/js/23.984fcd00.chunk.js.map",
-    "453.092731e4.chunk.js.map": "/Portfolio/static/js/453.092731e4.chunk.js.map"
+    "453.0e2f6e77.chunk.js.map": "/Portfolio/static/js/453.0e2f6e77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ceb501c.css",
-    "static/js/main.48e17570.js"
+    "static/js/main.0ff52a80.js"
   ]
 }
